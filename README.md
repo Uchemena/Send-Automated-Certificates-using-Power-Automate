@@ -1,1 +1,1 @@
-# Send-Automated-Certificates-using-Power-Automate
+# Send Automated Certificates using Power Automate
