@@ -1,5 +1,5 @@
 # Send Automated Certificates using Power Automate
-Download the Power Automate flow for the YouTube video Send Automated Certificates using Microsoft and Power Automate
+Download the Power Automate flow for the YouTube video Send Automated Certificates using Microsoft word and Power Automate
 
 ![](/Automate%20Certificate.png)
 
